@@ -1,0 +1,19 @@
+# Core dependencies
+
+# For data manipulation and cleaning
+
+# For handling dates and times
+
+# For model evaluation
+
+# For deep learning models
+
+# For natural language processing
+
+# For saving and loading models
+
+# For interactive visualizations
+
+# For working with large datasets
+
+# For web scraping
